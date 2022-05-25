@@ -12,4 +12,5 @@ examples.
 The module folders contain the starter code for the programming assignments
 associated with the MOOC.
 
-The solutions to the required coursework are located in the 
+The solutions to the required coursework are located in the src folder and 
+are further divided into folders for each module
